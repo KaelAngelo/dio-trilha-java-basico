@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "curso-java-basico/src/br.com.eassistemas.cursojava.dio.variaveis",
+        "curso-java-basico/src/br.com.eassistemas.cursojava.dio.operadores",
+        "curso-java-basico/src/br.com.eassistemas.cursojava.controledefluxo"
+    ]
+}
