@@ -1,3 +1,4 @@
+package br.com.eassistemas.cursojava.dio.controleDeFluxo;
 import java.util.Scanner;
 
 class ControleDeFluxoSwitchCase {
